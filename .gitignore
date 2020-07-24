@@ -1,0 +1,6 @@
+venv/
+dist/
+build/
+bs_realpython_reader.egg-info/
+.vscode/
+__pycache__
